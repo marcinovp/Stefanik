@@ -1,0 +1,39 @@
+{
+  "images": [
+    {
+      "image": "3-8-round-pea-gravel.jpg",
+      "name": "gravel"
+    },
+    {
+      "image": "building_PNG25.png",
+      "name": "building_demo",
+      "size": [ 7.75, 4.22 ],
+      "uid": "uid-string, should NOT duplicate",
+      "meta": "what ever string you like."
+    },
+    {
+      "image": "ram-pre-rodny-dom.jpg",
+      "name": "rodny dom"
+    },
+    {
+      "image": "mrs-pre-ciapku.jpeg",
+      "name": "ciapka"
+    },
+    {
+      "image": "krajina-pre-mohylu.jpg",
+      "name": "mohyla"
+    },
+    {
+      "image": "letisko-pre-lietadlo.jpg",
+      "name": "letisko"
+    },
+    {
+      "image": "izba-pre-dalekohlad.jpg",
+      "name": "izba"
+    },
+    {
+      "image": "smrt-havaria-pre-ohne.jpg",
+      "name": "havaria"
+    }
+  ]
+}
