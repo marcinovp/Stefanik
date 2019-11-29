@@ -20,7 +20,7 @@ RenderSettings:
   m_FogDensity: 0.01
   m_LinearFogStart: 0
   m_LinearFogEnd: 300
-  m_AmbientSkyColor: {r: 1, g: 1, b: 1, a: 1}
+  m_AmbientSkyColor: {r: 1.2311444, g: 1.2311444, b: 1.2311444, a: 1}
   m_AmbientEquatorColor: {r: 0.5754717, g: 0.5754717, b: 0.5754717, a: 1}
   m_AmbientGroundColor: {r: 0.21617676, g: 0.509434, b: 0.10813459, a: 1}
   m_AmbientIntensity: 1.7
@@ -60,7 +60,7 @@ LightmapSettings:
     m_AtlasSize: 512
     m_AO: 1
     m_AOMaxDistance: 1
-    m_CompAOExponent: 1
+    m_CompAOExponent: 1.4
     m_CompAOExponentDirect: 0
     m_ExtractAmbientOcclusion: 0
     m_Padding: 2
@@ -262,6 +262,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 39.134003
+      objectReference: {fileID: 0}
+    - target: {fileID: 4886972588518418077, guid: 4df42291348a7754ca206bed17e9925f,
+        type: 3}
+      propertyPath: m_StaticEditorFlags
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4df42291348a7754ca206bed17e9925f, type: 3}
