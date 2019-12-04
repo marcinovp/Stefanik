@@ -1,12 +1,11 @@
-﻿using EasyAR;
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.Video;
 
 [RequireComponent(typeof(VideoPlayer))]
 [RequireComponent(typeof(MeshRenderer))]
 public class TargetVideoPlayer : MonoBehaviour
 {
-    public ImageTargetBaseBehaviour imageTargetBehaviour;
+    public ImageTargetExtended imageTargetBehaviour;
     public float startFromTime = 0f;
 
     public VideoPlayer VideoPlayer { get; private set; }
@@ -36,14 +35,14 @@ public class TargetVideoPlayer : MonoBehaviour
         meshRenderer.enabled = true;
     }
     
-    private void ImageTargetBehaviour_TargetLost(TargetAbstractBehaviour obj)
+    private void ImageTargetBehaviour_TargetLost(ImageTargetController obj)
     {
         Debug.Log("Target lost");
         VideoPlayer?.Pause();
         meshRenderer.enabled = false;
     }
 
-    private void ImageTargetBehaviour_TargetFound(TargetAbstractBehaviour obj)
+    private void ImageTargetBehaviour_TargetFound(ImageTargetController obj)
     {
         Debug.Log("Target found");
         VideoPlayer.Play();

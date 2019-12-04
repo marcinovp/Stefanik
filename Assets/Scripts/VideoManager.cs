@@ -1,14 +1,11 @@
-﻿using EasyAR;
-using System;
+﻿using System;
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
-using UnityEngine.Video;
 
 public class VideoManager : MonoBehaviour
 {
-    public List<ImageTargetBaseBehaviour> imageTargetBehaviour;
+    public List<ImageTargetExtended> imageTargetBehaviour;
     public List<TargetVideoPlayer> targetVideoPlayers;
 
     void Start()
@@ -21,7 +18,7 @@ public class VideoManager : MonoBehaviour
         }
     }
 
-    private void Target_TargetFound(ImageTargetBaseBehaviour imageTargetFound)
+    private void Target_TargetFound(ImageTargetController imageTargetFound)
     {
         foreach (var targetVideoPlayer in targetVideoPlayers)
         {

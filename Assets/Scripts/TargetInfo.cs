@@ -57,7 +57,7 @@ public class TargetInfo : MonoBehaviour
     [Serializable]
     public class InfoPair
     {
-        public EasyAR.ImageTargetBaseBehaviour target;
+        public ImageTargetExtended target;
         public string infoTitle;
         public string infoMessage;
     }
