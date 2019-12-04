@@ -270,7 +270,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 4df42291348a7754ca206bed17e9925f, type: 3}
---- !u!43 &106819052
+--- !u!43 &130115237
 Mesh:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -288,7 +288,7 @@ Mesh:
     vertexCount: 4
     localAABB:
       m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.5, y: 0, z: 0.30833364}
+      m_Extent: {x: 0.5, y: 0, z: 0.42735043}
   m_Shapes:
     vertices: []
     shapes: []
@@ -367,7 +367,7 @@ Mesh:
       format: 0
       dimension: 0
     m_DataSize: 128
-    _typelessdata: 000000bf00000000e8dd9dbe000000000000803f0000000000000000000000000000003f00000000e8dd9dbe000000000000803f000000000000803f00000000000000bf00000000e8dd9d3e000000000000803f00000000000000000000803f0000003f00000000e8dd9d3e000000000000803f000000000000803f0000803f
+    _typelessdata: 000000bf00000000adcddabe000000000000803f0000000000000000000000000000003f00000000adcddabe000000000000803f000000000000803f00000000000000bf00000000adcdda3e000000000000803f00000000000000000000803f0000003f00000000adcdda3e000000000000803f000000000000803f0000803f
   m_CompressedMesh:
     m_Vertices:
       m_NumItems: 0
@@ -422,170 +422,7 @@ Mesh:
     m_UVInfo: 0
   m_LocalAABB:
     m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.5, y: 0, z: 0.30833364}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
---- !u!43 &191950653
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  serializedVersion: 10
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 6
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 4
-    localAABB:
-      m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.5, y: 0, z: 0.33877635}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000002000300000003000100
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 4
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 128
-    _typelessdata: 000000bf000000001874adbe000000000000803f0000000000000000000000000000003f000000001874adbe000000000000803f000000000000803f00000000000000bf000000001874ad3e000000000000803f00000000000000000000803f0000003f000000001874ad3e000000000000803f000000000000803f0000803f
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.5, y: 0, z: 0.33877635}
+    m_Extent: {x: 0.5, y: 0, z: 0.42735043}
   m_MeshUsageFlags: 0
   m_BakedConvexCollisionMesh: 
   m_BakedTriangleCollisionMesh: 
@@ -704,169 +541,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d39eb77d2763c88419739600269d394f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!43 &220485595
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  serializedVersion: 10
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 6
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 4
-    localAABB:
-      m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.417245, y: 0, z: 0.5}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000002000300000003000100
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 4
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 128
-    _typelessdata: 23a1d5be00000000000000bf000000000000803f00000000000000000000000023a1d53e00000000000000bf000000000000803f000000000000803f0000000023a1d5be000000000000003f000000000000803f00000000000000000000803f23a1d53e000000000000003f000000000000803f000000000000803f0000803f
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.417245, y: 0, z: 0.5}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
 --- !u!1 &258463103
 GameObject:
   m_ObjectHideFlags: 0
@@ -1859,6 +1533,169 @@ CanvasRenderer:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 724124130}
   m_CullTransparentMesh: 0
+--- !u!43 &766151351
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 6
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 4
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.417245, y: 0, z: 0.5}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000002000300000003000100
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 4
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 128
+    _typelessdata: 23a1d5be00000000000000bf000000000000803f00000000000000000000000023a1d53e00000000000000bf000000000000803f000000000000803f0000000023a1d5be000000000000003f000000000000803f00000000000000000000803f23a1d53e000000000000003f000000000000803f000000000000803f0000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.417245, y: 0, z: 0.5}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!1 &787190539
 GameObject:
   m_ObjectHideFlags: 0
@@ -2020,169 +1857,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f50c4e9ec86c26e47a97c458c648a2c2, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!43 &946187842
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  serializedVersion: 10
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 6
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 4
-    localAABB:
-      m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.5, y: 0, z: 0.42735043}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000002000300000003000100
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 4
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 128
-    _typelessdata: 000000bf00000000adcddabe000000000000803f0000000000000000000000000000003f00000000adcddabe000000000000803f000000000000803f00000000000000bf00000000adcdda3e000000000000803f00000000000000000000803f0000003f00000000adcdda3e000000000000803f000000000000803f0000803f
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.5, y: 0, z: 0.42735043}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
 --- !u!1001 &1017060225
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2494,169 +2168,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: d39eb77d2763c88419739600269d394f, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!43 &1283366588
-Mesh:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_Name: 
-  serializedVersion: 10
-  m_SubMeshes:
-  - serializedVersion: 2
-    firstByte: 0
-    indexCount: 6
-    topology: 0
-    baseVertex: 0
-    firstVertex: 0
-    vertexCount: 4
-    localAABB:
-      m_Center: {x: 0, y: 0, z: 0}
-      m_Extent: {x: 0.5, y: 0, z: 0.33464962}
-  m_Shapes:
-    vertices: []
-    shapes: []
-    channels: []
-    fullWeights: []
-  m_BindPose: []
-  m_BoneNameHashes: 
-  m_RootBoneNameHash: 0
-  m_BonesAABB: []
-  m_VariableBoneCountWeights:
-    m_Data: 
-  m_MeshCompression: 0
-  m_IsReadable: 1
-  m_KeepVertices: 1
-  m_KeepIndices: 1
-  m_IndexFormat: 0
-  m_IndexBuffer: 000002000300000003000100
-  m_VertexData:
-    serializedVersion: 3
-    m_VertexCount: 4
-    m_Channels:
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 12
-      format: 0
-      dimension: 3
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 24
-      format: 0
-      dimension: 2
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    - stream: 0
-      offset: 0
-      format: 0
-      dimension: 0
-    m_DataSize: 128
-    _typelessdata: 000000bf000000003257abbe000000000000803f0000000000000000000000000000003f000000003257abbe000000000000803f000000000000803f00000000000000bf000000003257ab3e000000000000803f00000000000000000000803f0000003f000000003257ab3e000000000000803f000000000000803f0000803f
-  m_CompressedMesh:
-    m_Vertices:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UV:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Normals:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Tangents:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Weights:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_NormalSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_TangentSigns:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_FloatColors:
-      m_NumItems: 0
-      m_Range: 0
-      m_Start: 0
-      m_Data: 
-      m_BitSize: 0
-    m_BoneIndices:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_Triangles:
-      m_NumItems: 0
-      m_Data: 
-      m_BitSize: 0
-    m_UVInfo: 0
-  m_LocalAABB:
-    m_Center: {x: 0, y: 0, z: 0}
-    m_Extent: {x: 0.5, y: 0, z: 0.33464962}
-  m_MeshUsageFlags: 0
-  m_BakedConvexCollisionMesh: 
-  m_BakedTriangleCollisionMesh: 
-  m_MeshMetrics[0]: 1
-  m_MeshMetrics[1]: 1
-  m_MeshOptimizationFlags: 1
-  m_StreamData:
-    offset: 0
-    size: 0
-    path: 
 --- !u!1001 &1357046207
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -2833,7 +2344,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 220485595}
+      objectReference: {fileID: 766151351}
     - target: {fileID: 2224423954427698262, guid: b6c6c4f8a4bd87d42bc515d69c9086a2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -2917,6 +2428,169 @@ Transform:
     type: 3}
   m_PrefabInstance: {fileID: 1467638586}
   m_PrefabAsset: {fileID: 0}
+--- !u!43 &1491886772
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 6
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 4
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.5, y: 0, z: 0.30833364}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000002000300000003000100
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 4
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 128
+    _typelessdata: 000000bf00000000e8dd9dbe000000000000803f0000000000000000000000000000003f00000000e8dd9dbe000000000000803f000000000000803f00000000000000bf00000000e8dd9d3e000000000000803f00000000000000000000803f0000003f00000000e8dd9d3e000000000000803f000000000000803f0000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.5, y: 0, z: 0.30833364}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!1 &1546973197
 GameObject:
   m_ObjectHideFlags: 0
@@ -3018,107 +2692,107 @@ MonoBehaviour:
   - target: {fileID: 162918895847830176}
     infoTitle: "RODN\xDD DOM"
     infoMessage: "M\xFAzeum Milana Rastislava \u0160tef\xE1nika v Ko\u0161arisk\xE1ch
-      (okres Myjava) je s\xFA\u010Das\u0165ou Slovensk\xE9ho n\xE1rodn\xE9ho m\xFAzea
-      - M\xFAzea Slovensk\xFDch n\xE1rodn\xFDch r\xE1d. Bolo otvoren\xE9 v roku 1990
+      (okres Myjava) je  s\xFA\u010Das\u0165ou Slovensk\xE9ho n\xE1rodn\xE9ho m\xFAzea
+      - M\xFAzea Slovensk\xFDch n\xE1rodn\xFDch r\xE1d. Bolo otvoren\xE9 v  roku 1990
       v rodnom dome M. R. \u0160tef\xE1nika. V rodnom dome, evanjelickej fare v Ko\u0161arisk\xE1ch,
-      akoby sa prostredn\xEDctvom osobn\xFDch, \u010Dasto mimuci\xF3znych memorab\xEDli\xED
-      pren\xE1\u0161ala atmosf\xE9ra ve\u013Ek\xE9ho sveta, v ktorom sa \u0160tef\xE1nik
-      cel\xFD \u017Eivot pohyboval a stal sa mu druh\xFDm domovom. V \u0161iestich
-      miestnostiach sa m\xFAzejne dokumentuje jeho \u017Eivotn\xE1 dr\xE1ha, s\xFAkromie
-      a z\xE1\u013Euby, no najm\xE4 jeho vojensk\xE1, diplomatick\xE1 a politick\xE1
-      \u010Dinnos\u0165. Aj prostredn\xEDctvom kolekcie vystaven\xFDch predmetov a
-      M. R. \u0160tef\xE1nik skoro po 100 rokoch vr\xE1til domov, do domu, kde sa
-      narodil - pod Bradlo."
+      akoby panovala atmosf\xE9ra ve\u013Ek\xE9ho sveta, v  ktorom sa \u0160tef\xE1nik
+      cel\xFD \u017Eivot pohyboval a stal sa mu druh\xFDm  domovom. Vytv\xE1ra ju
+      mno\u017Estvo osobn\xFDch vec\xED  via\u017Eucich sa k miestam jeho pobytu.
+      V \u0161iestich miestnostiach sa m\xFAzejne dokumentuje jeho \u017Eivotn\xE1
+      dr\xE1ha, s\xFAkromie a z\xE1\u013Euby, no  najm\xE4 jeho vojensk\xE1, diplomatick\xE1
+      a politick\xE1 \u010Dinnos\u0165. Aj  prostredn\xEDctvom kolekcie vystaven\xFDch
+      predmetov a M. R. \u0160tef\xE1nik skoro po 100 rokoch vr\xE1til domov, do domu,
+      kde sa narodil - pod Bradlo."
   - target: {fileID: 197817182}
     infoTitle: "\u010CIAPKA"
     infoMessage: "Jedna vec, ktor\xFA v\u0161etci pozn\xE1me, je t\xE1 \u010Dudn\xE1
-      \u010Diapka. Ten valec so \u0161iltom si v\xE4\u010D\u0161ina z n\xE1s pam\xE4t\xE1
-      \ lep\u0161ie ako tv\xE1r pod n\xEDm. Je to zrejme dan\xE9 t\xFDm, \u017Ee je
-      n\xE1m bl\xEDzky svojou v\xFDzdobou \u2013 vyzer\xE1, ako keby  patril k nejak\xE9mu
+      \u010Diapka. Ten valec so  \u0161iltom si v\xE4\u010D\u0161ina z n\xE1s pam\xE4t\xE1
+      lep\u0161ie ako tv\xE1r pod n\xEDm. Je to zrejme dan\xE9 t\xFDm, \u017Ee je
+      n\xE1m bl\xEDzky svojou v\xFDzdobou - vyzer\xE1, ako keby patril k nejak\xE9mu
       kroju. V skuto\u010Dnosti je to franc\xFAzska gener\xE1lska \u010Diapka. Preto\u017Ee
-      druh\xE1 v\u0161eobecne  zn\xE1ma vec o gener\xE1lovi \u0160tef\xE1nikovi je,
+      druh\xE1 v\u0161eobecne zn\xE1ma vec o gener\xE1lovi \u0160tef\xE1nikovi je,
       \u017Ee bol gener\xE1l. U\u017E menej zn\xE1me je, \u017Ee pr\xEDsne vzat\xE9
-      gener\xE1lom  zas a\u017E tak celkom nebol, preto\u017Ee gener\xE1lska hodnos\u0165
+      gener\xE1lom zas a\u017E tak celkom nebol, preto\u017Ee gener\xE1lska hodnos\u0165
       mu bola len do\u010Dasne prepo\u017Ei\u010Dan\xE1."
   - target: {fileID: 1719844083}
     infoTitle: MOHYLA
-    infoMessage: "Mohyla sa nach\xE1dza na vrchu Bradlo (Myjavsk\xE1 pahorkatina),
-      ktor\xFD s nadmorskou v\xFD\u0161kou 543 metrov dominuje okolitej krajine. Mohyla
-      sa sklad\xE1 z \u0161tyroch hlavn\xFDch \u010Dast\xED: dvoch ter\xE1s stup\u0148ovite
-      nad sebou vyrastaj\xFAcich zo svahov kopca, vlastnej n\xE1hrobnej stavby a \u0161tyroch
-      obeliskov. Vlastn\xFD kv\xE1der tumby stoj\xED na trojstup\u0148ovej pyram\xEDde.
-      Z n\xE1ro\u017E\xED pyram\xEDdy vyrastaj\xFA \u0161tyri obelisky a\u017E do
-      v\xFD\u0161ky 12 metrov. Z\xE1klad tvoria \u0161tyri mohutn\xE9 n\xE1ro\u017En\xE9
+    infoMessage: "Mohyla  sa nach\xE1dza na vrchu Bradlo (Myjavsk\xE1 pahorkatina),
+      ktor\xFD  s nadmorskou v\xFD\u0161kou 543 metrov dominuje okolitej krajine.
+      Mohyla sa sklad\xE1 z  \u0161tyroch hlavn\xFDch  \u010Dast\xED: dvoch ter\xE1s
+      stup\u0148ovite nad sebou vyrastaj\xFAcich zo svahov kopca, vlastnej n\xE1hrobnej
+      stavby a \u0161tyroch obeliskov. Vlastn\xFD kv\xE1der tumby stoj\xED na trojstup\u0148ovej
+      pyram\xEDde. Z n\xE1ro\u017E\xED pyram\xEDdy vyrastaj\xFA \u0161tyri obelisky
+      a\u017E do v\xFD\u0161ky 12 metrov. Z\xE1klad tvoria \u0161tyri mohutn\xE9 n\xE1ro\u017En\xE9
       piliere vymurovan\xE9 z mohutn\xFDch rustikovan\xFDch travert\xEDnov\xFDch kv\xE1drov.
       Medzipilierov\xFD priestor v spodnej \u010Dasti tvor\xED z\xE1kladn\xFA hmotu
-      tumby, nad ktorou s\xFA umiestnen\xE9 n\xE1pisov\xE9 dosky a reli\xE9fy. Cel\xE1
-      v\xFDzdoba pam\xE4tn\xEDka je s\xFAstreden\xE1 na tumbu a tvoria ju na v\u0161etk\xFDch
+      tumby, nad ktorou s\xFA umiestnen\xE9  n\xE1pisov\xE9 dosky a reli\xE9fy. Cel\xE1
+      v\xFDzdoba pam\xE4tn\xEDka je s\xFAstreden\xE1 na tumbu a tvoria ju  na v\u0161etk\xFDch
       \u0161tyroch stran\xE1ch n\xE1pisov\xE9 dosky a reli\xE9fy s kompoz\xEDciou
-      venca a kr\xED\u017Ea. Monumentalitu v\xFDtvarn\xFDch prvkov a n\xE1pisov umoc\u0148uje
+      venca a  kr\xED\u017Ea. Monumentalitu v\xFDtvarn\xFDch prvkov a n\xE1pisov umoc\u0148uje
       strohos\u0165 model\xE1cie celku a detailov. Mohylu architekta Du\u0161ana Jurkovi\u010Da
       sl\xE1vnostne odhalili 23. septembra 1928. Za n\xE1rodn\xFA kult\xFArnu pamiatku
-      bola vyhl\xE1sen\xE1 v roku 1968. V roku 2009 bola zap\xEDsan\xE1 do zoznamu
-      Eur\xF3pskeho dedi\u010Dstva."
+      bola vyhl\xE1sen\xE1 v roku  1968. V roku 2009 bola zap\xEDsan\xE1 do Zoznamu
+      eur\xF3pskeho kult\xFArneho dedi\u010Dstva."
   - target: {fileID: 361221955}
     infoTitle: LIETADLO
-    infoMessage: "Vo svete sa zachovali len tri exempl\xE1re z\_verzi\xED bombardovacieho
-      lietadla Caproni Ca. 1-3 zn\xE1meho talianskeho leteck\xE9ho kon\u0161trukt\xE9ra
+    infoMessage: "Vo svete sa zachovali len tri exempl\xE1re z verzi\xED bombardovacieho
+      \ lietadla Caproni Ca. 1-3 zn\xE1meho talianskeho leteck\xE9ho kon\u0161trukt\xE9ra
       Giovanniho Battistu Caproniho. Tento typ talianskeho bombardovacieho lietadla
-      je \xFAzko sp\xE4t\xFD s\_vojenskou minulos\u0165ou Slovenska, preto\u017Ee
-      v\_\u0148om 4. m\xE1ja 1919 ne\u010Faleko Ivanky pri Dunaji tragicky zahynul
-      prv\xFD a\_jedin\xFD minister vojny \u010Ceskoslovenskej republiky gener\xE1l
-      M. R. \u0160tef\xE1nik. Z\_troch spomenut\xFDch lietadiel s\xFA dva origin\xE1ly
+      je \xFAzko sp\xE4t\xFD s vojenskou  minulos\u0165ou Slovenska, preto\u017Ee
+      v \u0148om 4. m\xE1ja 1919 ne\u010Faleko  Ivanky pri  Dunaji tragicky zahynul
+      prv\xFD a jedin\xFD minister vojny  \u010Ceskoslovenskej  republiky gener\xE1l
+      M. R. \u0160tef\xE1nik. Z troch spomenut\xFDch lietadiel s\xFA dva origin\xE1ly
       - Caproni Ca. 36 vyroben\xFD v Taliansku po prvej svetovej vojne s imatrikula\u010Dn\xFDm
       \u010D\xEDslom 23.174, ktor\xFD patr\xED do zbierok talianskeho Historick\xE9ho
       m\xFAzea vojensk\xE9ho letectva vo Vigna di Valle, severne od R\xEDma. Druh\xFD
-      zase vyroben\xFD v\_USA v roku 1925 s imatrikula\u010Dn\xFDm \u010D\xEDslom
-      2581, je prezentovan\xFD v\_N\xE1rodnom m\xFAzeu Letectva Spojen\xFDch \u0161t\xE1tov
-      americk\xFDch na Wrightov\u2013Pattersonovej z\xE1kladni (Dayton, Ohio). Posledn\xE9
-      z\_trojice lietadiel tohto typu vo verzii Caproni Ca.33, respekt\xEDve jeho
-      replika, je od j\xFAna 2012 a\u017E doposia\u013E umiestnen\xE1 vo vstupnej
-      hale medzin\xE1rodn\xE9ho letiska M. R. \u0160tef\xE1nika v\_Bratislave."
+      zase vyroben\xFD v USA v roku 1925 s imatrikula\u010Dn\xFDm \u010D\xEDslom 2581,
+      je prezentovan\xFD v N\xE1rodnom m\xFAzeu Letectva Spojen\xFDch \u0161t\xE1tov
+      americk\xFDch na Wrightov-Pattersonovej z\xE1kladni (Dayton, Ohio). Posledn\xE9
+      z trojice lietadiel tohto typu vo verzii Caproni Ca.33, respekt\xEDve jeho replika,
+      je od j\xFAna 2012 a\u017E doposia\u013E umiestnen\xE1 vo vstupnej hale medzin\xE1rodn\xE9ho
+      letiska M. R. \u0160tef\xE1nika v Bratislave."
   - target: {fileID: 1762929950}
     infoTitle: "\u010EALEKOHLAD"
     infoMessage: "Vy\u0161tudoval na Karlovej univerzite v Prahe filozofiu a astron\xF3miu,
-      obh\xE1jil doktor\xE1t na t\xE9mu O novej  hviezde v s\xFAhvezd\xED Cassiopeie
-      v roku 1572. Stal sa spolupracovn\xEDkom prof. J. Janssena na observat\xF3riu
-      v Meudone pri Par\xED\u017Ei. Tam v roku 1906 skon\u0161truoval spektroheliograf.
-      Postupne sa  dobre zap\xEDsal v par\xED\u017Eskych vedeck\xFDch a spolo\u010Densk\xFDch
-      kruhoch. Zaoberal sa v\xFDskumom Slnka,  pozorovan\xEDm plan\xE9t a meteoritov
+      \ obh\xE1jil doktor\xE1t na t\xE9mu O novej hviezde v s\xFAhvezd\xED Cassiopeie
+      v roku 1572. Stal sa  spolupracovn\xEDkom prof. J. Janssena na observat\xF3riu
+      v Meudone pri Par\xED\u017Ei. Tam v roku 1906  skon\u0161truoval spektroheliograf.
+      Postupne sa dobre zap\xEDsal v  par\xED\u017Eskych vedeck\xFDch  a spolo\u010Densk\xFDch
+      kruhoch. Zaoberal sa v\xFDskumom Slnka, pozorovan\xEDm plan\xE9t a meteoritov
       (Mont Blanc), absolvoval cesty na pozorovanie zatmenia Slnka  (\u0160panielsko,
-      Turkestan, Tichomorie, Al\u017E\xEDrsko, Braz\xEDlia, Ekv\xE1dor). M. R. \u0160tef\xE1nik
-      - cestovate\u013E Na Tahiti  pozoroval prechod Halleyovej kom\xE9ty pred Slnkom,
-      vybudoval tam dobre vybaven\xE9 observat\xF3rium.  H\u013Eadal aj miesto pre
-      svoju vlastn\xFA hvezd\xE1re\u0148, pripravoval sie\u0165 meteorologick\xFDch
-      stan\xEDc. Aj napriek iba  nieko\u013Ekoro\u010Dn\xE9mu p\xF4sobeniu medzi astron\xF3mami
-      (1905-1914) sa stal uzn\xE1van\xFDm pozorovate\u013Eom z  observat\xF3ri\xED
-      vo ve\u013Ek\xFDch nadmorsk\xFDch v\xFD\u0161kach, spracoval podnetn\xE9 pr\xEDspevky
-      do v\xFDzna\u010Dn\xFDch  astronomick\xFDch \u010Dasopisov. C. Flammarion nap\xEDsal:
-      \"\u0160tef\xE1nik zostane v na\u0161ich spomienkach typom  mu\u017Ea celkom
-      v\xFDnimo\u010Dn\xE9ho.\" Z\xEDskal aj cenu Franc\xFAzskej astronomickej spolo\u010Dnosti.
-      <b>\"Hviezdy riadia  m\xF4j \u017Eivot, ony mi privol\xE1vaj\xFA: sl\xFA\u017E
-      kr\xE1se a \u0161\xEDr \u0161\u0165astie... Kto kr\xE1\u010Da energicky a vedom\xFD
-      si cie\u013Ea,  ovl\xE1da svoj osud takmer dokonale.\"</b>"
+      Turkestan, Tichomorie, Al\u017E\xEDrsko, Braz\xEDlia, Ekv\xE1dor). Na Tahiti
+      pozoroval prechod Halleyovej kom\xE9ty pred Slnkom,  vybudoval tam dobre vybaven\xE9
+      observat\xF3rium. H\u013Eadal aj  miesto pre svoju vlastn\xFA hvezd\xE1re\u0148,
+      pripravoval sie\u0165 meteorologick\xFDch stan\xEDc. Aj  napriek iba nieko\u013Ekoro\u010Dn\xE9mu
+      p\xF4sobeniu medzi astron\xF3mami (1905-1914) sa stal uzn\xE1van\xFDm pozorovate\u013Eom
+      z observat\xF3ri\xED vo ve\u013Ek\xFDch nadmorsk\xFDch v\xFD\u0161kach, spracoval
+      podnetn\xE9 pr\xEDspevky do v\xFDznamn\xFDch astronomick\xFDch \u010Dasopisov.
+      C. Flammarion nap\xEDsal: \"\u0160tef\xE1nik zostane v na\u0161ich spomienkach
+      typom mu\u017Ea celkom v\xFDnimo\u010Dn\xE9ho.\" Z\xEDskal aj cenu Franc\xFAzskej
+      astronomickej spolo\u010Dnosti. <b>\"Hviezdy riadia m\xF4j \u017Eivot, ony mi
+      privol\xE1vaj\xFA: sl\xFA\u017E kr\xE1se a \u0161\xEDr \u0161\u0165astie...
+      Kto kr\xE1\u010Da energicky a vedom\xFD si cie\u013Ea, ovl\xE1da svoj osud takmer
+      dokonale.\"</b>"
   - target: {fileID: 1219460198}
     infoTitle: "P\xC1D LIETADLA"
     infoMessage: "D\u0148a 4. m\xE1ja 1919 sa minister vojny \u010Ceskoslovenskej
-      republiky, gener\xE1l Milan Rastislav \u0160tef\xE1nik,  vracal z Talianska
-      do svojej vlasti. Hoci mal p\xF4vodne cestova\u0165 vlakom cez Rak\xFAsko, vyhl\xE1sil,
-      \u017Ee sa  nechce dotkn\xFA\u0165 nepriate\u013Eskej p\xF4dy, preto zvolil
-      cestu lietadlom. \u0160tef\xE1nikovo lietadlo sa v\u0161ak pri  pr\xEDlete do
-      vlasti zr\xFAtilo za dodnes nevyjasnen\xFDch okolnost\xED. \u0160tef\xE1nik
-      i ostatn\xED \u010Dlenovia pos\xE1dky  zahynuli. Stalo sa to po\u010Das prist\xE1vacieho
-      man\xE9vru nad vajnorsk\xFDm letiskom. Na mieste tragick\xE9ho  p\xE1du lietadla,
-      v katastri obce Iv\xE1nka pri Dunaji, stoj\xED dnes pam\xE4tn\xE1 mohyla, pripom\xEDnaj\xFAcu
-      t\xFAto  smutn\xFA udalos\u0165. Spr\xE1va o gener\xE1lovej smrti prekvapila
-      a \u0161okovala cel\xE9 Slovensko. Sm\xFAtok bol o to  v\xE4\u010D\u0161\xED,
-      \u017Ee \u0160tef\xE1nik steles\u0148oval nielen prototyp hrdinu-bojovn\xEDka,
-      ktor\xFD svoj z\xE1pas doviedol do  \xFAspe\u0161n\xE9ho v\xED\u0165azn\xE9ho
-      konca a prispel tak k oslobodeniu svojho n\xE1roda spod \u201Etis\xEDcro\u010Dn\xE9ho\u201C
-      \ ma\u010Farsk\xE9ho jarma. Symbolizoval z\xE1rove\u0148 Slov\xE1ka, ktor\xFD
-      sa napriek n\xE1rodnej porobe a \xFAtlaku dok\xE1zal  presadi\u0165 vo vysokej
+      republiky,  gener\xE1l Milan Rastislav \u0160tef\xE1nik, vracal z Talianska
+      do svojej vlasti. Hoci mal  p\xF4vodne cestova\u0165 vlakom cez Rak\xFAsko,
+      vyhl\xE1sil, \u017Ee sa nechce dotkn\xFA\u0165 nepriate\u013Eskej p\xF4dy, preto
+      zvolil cestu lietadlom. \u0160tef\xE1nikovo lietadlo sa v\u0161ak pri pr\xEDlete
+      do vlasti zr\xFAtilo za dodnes nevyjasnen\xFDch okolnost\xED. \u0160tef\xE1nik
+      i ostatn\xED \u010Dlenovia pos\xE1dky zahynuli. Stalo sa to po\u010Das prist\xE1vacieho
+      man\xE9vru nad vajnorsk\xFDm letiskom. Na mieste tragick\xE9ho p\xE1du lietadla,
+      v katastri obce Iv\xE1nka pri Dunaji, stoj\xED dnes pam\xE4tn\xE1 mohyla,  pripom\xEDnaj\xFAcu
+      t\xFAto smutn\xFA udalos\u0165. Spr\xE1va o gener\xE1lovej smrti  prekvapila
+      a \u0161okovala cel\xE9 Slovensko. Sm\xFAtok bol o to v\xE4\u010D\u0161\xED,
+      \u017Ee \u0160tef\xE1nik steles\u0148oval  prototyp hrdinu-bojovn\xEDka, ktor\xFD
+      svoj  z\xE1pas doviedol do \xFAspe\u0161n\xE9ho v\xED\u0165azn\xE9ho konca a
+      prispel tak k oslobodeniu svojho n\xE1roda spod \u201Etis\xEDcro\u010Dn\xE9ho\"
+      ma\u010Farsk\xE9ho jarma. Z\xE1rove\u0148 symboliozoval Slov\xE1ka, ktor\xFD
+      sa napriek n\xE1rodnej  porobe a \xFAtlaku dok\xE1zal presadi\u0165 vo vysokej
       diplomacii, dosiahol vysok\xFA vojensk\xFA hodnos\u0165, jednoducho povedan\xE9,
-      zvy\u0161oval  prest\xED\u017E spolo\u010Denstva v medzin\xE1rodnom kontexte."
+      zvy\u0161oval prest\xED\u017E  spolo\u010Denstva v medzin\xE1rodnom kontexte."
 --- !u!95 &1546973202
 Animator:
   serializedVersion: 3
@@ -3244,7 +2918,7 @@ MonoBehaviour:
     m_PostInfinity: 2
     m_RotationOrder: 4
   monitorDPI: 95.7
-  multiplier: 1
+  multiplier: 2
 --- !u!223 &1631220411
 Canvas:
   m_ObjectHideFlags: 0
@@ -3287,6 +2961,169 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 0, y: 0}
   m_Pivot: {x: 0, y: 0}
+--- !u!43 &1676999061
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 6
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 4
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.5, y: 0, z: 0.33877635}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000002000300000003000100
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 4
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 128
+    _typelessdata: 000000bf000000001874adbe000000000000803f0000000000000000000000000000003f000000001874adbe000000000000803f000000000000803f00000000000000bf000000001874ad3e000000000000803f00000000000000000000803f0000003f000000001874ad3e000000000000803f000000000000803f0000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.5, y: 0, z: 0.33877635}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!4 &1706137385 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 2224423954427698262, guid: b6c6c4f8a4bd87d42bc515d69c9086a2,
@@ -3346,7 +3183,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 1283366588}
+      objectReference: {fileID: 2056702963}
     - target: {fileID: 2224423954427698262, guid: b6c6c4f8a4bd87d42bc515d69c9086a2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3483,7 +3320,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 106819052}
+      objectReference: {fileID: 1491886772}
     - target: {fileID: 2224423954427698262, guid: b6c6c4f8a4bd87d42bc515d69c9086a2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -3874,6 +3711,169 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 14ec1f3b40a3f9f49a591bf057c6fcb5, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!43 &2056702963
+Mesh:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: 
+  serializedVersion: 10
+  m_SubMeshes:
+  - serializedVersion: 2
+    firstByte: 0
+    indexCount: 6
+    topology: 0
+    baseVertex: 0
+    firstVertex: 0
+    vertexCount: 4
+    localAABB:
+      m_Center: {x: 0, y: 0, z: 0}
+      m_Extent: {x: 0.5, y: 0, z: 0.33464962}
+  m_Shapes:
+    vertices: []
+    shapes: []
+    channels: []
+    fullWeights: []
+  m_BindPose: []
+  m_BoneNameHashes: 
+  m_RootBoneNameHash: 0
+  m_BonesAABB: []
+  m_VariableBoneCountWeights:
+    m_Data: 
+  m_MeshCompression: 0
+  m_IsReadable: 1
+  m_KeepVertices: 1
+  m_KeepIndices: 1
+  m_IndexFormat: 0
+  m_IndexBuffer: 000002000300000003000100
+  m_VertexData:
+    serializedVersion: 3
+    m_VertexCount: 4
+    m_Channels:
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 12
+      format: 0
+      dimension: 3
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 24
+      format: 0
+      dimension: 2
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    - stream: 0
+      offset: 0
+      format: 0
+      dimension: 0
+    m_DataSize: 128
+    _typelessdata: 000000bf000000003257abbe000000000000803f0000000000000000000000000000003f000000003257abbe000000000000803f000000000000803f00000000000000bf000000003257ab3e000000000000803f00000000000000000000803f0000003f000000003257ab3e000000000000803f000000000000803f0000803f
+  m_CompressedMesh:
+    m_Vertices:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UV:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Normals:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Tangents:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Weights:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_NormalSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_TangentSigns:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_FloatColors:
+      m_NumItems: 0
+      m_Range: 0
+      m_Start: 0
+      m_Data: 
+      m_BitSize: 0
+    m_BoneIndices:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_Triangles:
+      m_NumItems: 0
+      m_Data: 
+      m_BitSize: 0
+    m_UVInfo: 0
+  m_LocalAABB:
+    m_Center: {x: 0, y: 0, z: 0}
+    m_Extent: {x: 0.5, y: 0, z: 0.33464962}
+  m_MeshUsageFlags: 0
+  m_BakedConvexCollisionMesh: 
+  m_BakedTriangleCollisionMesh: 
+  m_MeshMetrics[0]: 1
+  m_MeshMetrics[1]: 1
+  m_MeshOptimizationFlags: 1
+  m_StreamData:
+    offset: 0
+    size: 0
+    path: 
 --- !u!1 &2081989627
 GameObject:
   m_ObjectHideFlags: 0
@@ -4005,7 +4005,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 191950653}
+      objectReference: {fileID: 1676999061}
     - target: {fileID: 2224423954427698262, guid: b6c6c4f8a4bd87d42bc515d69c9086a2,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4258,7 +4258,7 @@ PrefabInstance:
         type: 3}
       propertyPath: m_Mesh
       value: 
-      objectReference: {fileID: 946187842}
+      objectReference: {fileID: 130115237}
     - target: {fileID: 2224423954427698262, guid: b6c6c4f8a4bd87d42bc515d69c9086a2,
         type: 3}
       propertyPath: m_LocalPosition.x
